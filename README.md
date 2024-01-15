@@ -19,3 +19,12 @@ $ npm install
 # Execute a aplicação em modo de desenvolvimento
 $ npm run dev
 # O servidor inciará na porta:3333 - acesse <http://localhost:3333>
+
+
+
+### 🎲 Front End(cliente)
+
+* desenvolvido em HTML, CSS e JS
+
+
+### 🎲 feito com base no canal Manual do Dev: https://www.youtube.com/watch?v=YVsNVPFOEuk
